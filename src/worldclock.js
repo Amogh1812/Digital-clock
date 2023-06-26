@@ -46,7 +46,7 @@ function WC() {
               <li>Email support</li>
               <li>Help center access</li> */}
             </ul>
-            <button type="button" className="w-100 btn btn-lg btn-outline-primary">More about this zone</button>
+            // <button type="button" className="w-100 btn btn-lg btn-outline-primary">More about this zone</button>
           </div>
         </div>
       </div>
@@ -63,7 +63,7 @@ function WC() {
               <li>Priority email support</li>
               <li>Help center access</li> */}
             </ul>
-            <button type="button" className="w-100 btn btn-lg btn-outline-primary">More about this zone</button>
+            // <button type="button" className="w-100 btn btn-lg btn-outline-primary">More about this zone</button>
           </div>
         </div>
       </div>
@@ -80,7 +80,7 @@ function WC() {
               <li>Phone and email support</li>
               <li>Help center access</li> */}
             </ul>
-            <button type="button" className="w-100 btn btn-lg btn-outline-primary">More about this zone</button>
+            // <button type="button" className="w-100 btn btn-lg btn-outline-primary">More about this zone</button>
           </div>
         </div>
       </div>
